@@ -78,7 +78,7 @@ async def sortlist():
     scoresList = sorted(scoresDict.items(), key=lambda t: t[1], reverse=True)
 
 
-bot.run("NzgxMjAxNjk4ODMxNDY2NTE3.X76Mxw.OoVlZ2STGqanIormm-7nEHIPcHY")
+bot.run("nonononono")
 
 
 #ajouter un systeme de communication pour dire que le titre a changer et de suppriemer le classement
